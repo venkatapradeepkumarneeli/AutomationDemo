@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="76847" started-at="2021-03-12T17:21:11 IST" finished-at="2021-03-12T17:22:28 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="76847" started-at="2021-03-12T17:21:11 IST" finished-at="2021-03-12T17:22:28 IST">
+      <class name="autodemo.tests.AddProductTest">
+        <test-method status="PASS" signature="addproduct()[pri:0, instance:autodemo.tests.AddProductTest@184f6be2]" name="addproduct" duration-ms="12032" started-at="2021-03-12T17:21:53 IST" finished-at="2021-03-12T17:22:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addproduct -->
+      </class> <!-- autodemo.tests.AddProductTest -->
+      <class name="autodemo.tests.comparearraystest">
+        <test-method status="PASS" signature="comparearray()[pri:0, instance:autodemo.tests.comparearraystest@394e1a0f]" name="comparearray" duration-ms="3" started-at="2021-03-12T17:22:28 IST" finished-at="2021-03-12T17:22:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comparearray -->
+      </class> <!-- autodemo.tests.comparearraystest -->
+      <class name="autodemo.tests.loginpagetest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:autodemo.tests.loginpagetest@6895a785]" name="setUp" is-config="true" duration-ms="31732" started-at="2021-03-12T17:21:12 IST" finished-at="2021-03-12T17:21:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:autodemo.tests.loginpagetest@6895a785]" name="login" duration-ms="10072" started-at="2021-03-12T17:21:43 IST" finished-at="2021-03-12T17:21:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- autodemo.tests.loginpagetest -->
+      <class name="autodemo.tests.engageproductdetailstest">
+        <test-method status="PASS" signature="engageproductdetails()[pri:0, instance:autodemo.tests.engageproductdetailstest@1f7030a6]" name="engageproductdetails" duration-ms="1804" started-at="2021-03-12T17:22:17 IST" finished-at="2021-03-12T17:22:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- engageproductdetails -->
+      </class> <!-- autodemo.tests.engageproductdetailstest -->
+      <class name="autodemo.tests.createproducttest">
+        <test-method status="PASS" signature="createproduct()[pri:0, instance:autodemo.tests.createproducttest@56aac163]" name="createproduct" duration-ms="11314" started-at="2021-03-12T17:22:05 IST" finished-at="2021-03-12T17:22:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createproduct -->
+      </class> <!-- autodemo.tests.createproducttest -->
+      <class name="autodemo.tests.otherdetailstest">
+        <test-method status="PASS" signature="cancel()[pri:0, instance:autodemo.tests.otherdetailstest@5a1c0542]" name="cancel" duration-ms="4846" started-at="2021-03-12T17:22:19 IST" finished-at="2021-03-12T17:22:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cancel -->
+      </class> <!-- autodemo.tests.otherdetailstest -->
+      <class name="autodemo.tests.productdetailstest">
+        <test-method status="PASS" signature="productdetails()[pri:0, instance:autodemo.tests.productdetailstest@396f6598]" name="productdetails" duration-ms="4960" started-at="2021-03-12T17:22:23 IST" finished-at="2021-03-12T17:22:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productdetails -->
+      </class> <!-- autodemo.tests.productdetailstest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
